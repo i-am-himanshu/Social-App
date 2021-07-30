@@ -7,5 +7,4 @@
   <li>You can liked any post and dislike a liked post.</li>
 </ul>
 
-## Demo
-<img src="media/social-1.jpg" width="250" > <img src="media/social-2.jpg" width="250" > <img src="media/social-3.jpg" width="250">
+
